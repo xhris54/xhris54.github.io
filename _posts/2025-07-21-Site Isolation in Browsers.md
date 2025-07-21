@@ -1,5 +1,5 @@
 ---
-title: Site Isolation in Modern Broswers
+title: Site Isolation in Modern Browsers
 ---
 
 
